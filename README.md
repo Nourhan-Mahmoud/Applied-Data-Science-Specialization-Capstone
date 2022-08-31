@@ -1,1 +1,1 @@
-# Applied-Data-Science-Specialization-Capstonr
+# Applied-Data-Science-Specialization-Capstone
